@@ -7,7 +7,6 @@ The analysis will be separated by two parts, the Climate Data Analysis and the C
 # Breakdown
 Precipitation Analysis
 - Data for 12 months is analyzed to result in a visual that displays the amount of precipitation (in inchnes) over time.
-![Alt text](image.png)
 
 Station Analysis
 - Queries were used to find the total number of stations, the most active ones, and then a more in depth analysis of the most active to find the lowest, highest and average temperature. 
